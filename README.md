@@ -135,7 +135,7 @@ CyberShooter-DSA/
 
 ## A Note on AI-Assisted Development
 
-This project was built with the help of **AI tools (Claude by Anthropic)** during development — used as a coding assistant for debugging, visual polish, and resolving tricky DSA edge cases like the `Queue` tail access bug.
+This project was built with the help of **AI tools** during development — used as a coding assistant for debugging, visual polish, and resolving tricky DSA edge cases like the `Queue` tail access bug.
 
 The core idea, architecture, DSA design decisions, and game logic were conceived and driven by us. AI served as a smart rubber duck — it didn't build the game, it helped us build it better.
 
