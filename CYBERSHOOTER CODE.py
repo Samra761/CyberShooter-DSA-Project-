@@ -1,5 +1,5 @@
-# CyberShooter - DSA-only edition (single-file)
-# FIXED: Resolved AttributeError: 'Queue' object has no attribute 'tail'
+# Added comments by using AI for user's understanding - Hope it helps
+# CyberShooter - DSA-only edition 
 
 import pygame
 import random
