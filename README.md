@@ -130,6 +130,7 @@ CyberShooter-DSA/
 ├── highscore.txt         # Auto-generated on first run
 ├── docs/
 │   └── presentation.pdf  # Project presentation slides
+    └── progressreports.pdf  # Project reports
 ├── assets                # Optional for sound effects
 └── README.md
 ```
