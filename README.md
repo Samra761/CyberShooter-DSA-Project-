@@ -151,4 +151,4 @@ The core idea, architecture, DSA design decisions, and game logic were conceived
 | **Abdullah Khan** | Documentation, sound integration |
 
 **Department of Electrical Engineering**  
-NUST (MCS Campus) | Semester 3 | DSA Course Project
+NUST | Semester 3 | DSA Course Project
