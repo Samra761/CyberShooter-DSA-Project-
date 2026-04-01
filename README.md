@@ -17,7 +17,7 @@ A cyberpunk arcade experience — neon glow effects, rotating asteroid fields, p
 
 ---
 
-## 🎮Controls
+## Controls
 
 | Key | Action |
 |-----|--------|
@@ -28,7 +28,7 @@ A cyberpunk arcade experience — neon glow effects, rotating asteroid fields, p
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 **Requirements:** Python 3.8+
 
