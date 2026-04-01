@@ -1,5 +1,5 @@
 # Added comments by using AI for user's understanding - Hope it helps
-# CyberShooter - DSA-only edition 
+# CyberShooter - DSA edition 
 
 import pygame
 import random
