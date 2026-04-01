@@ -15,9 +15,9 @@ Built as a DSA course project @ **NUST** | Semester 3
 
 A cyberpunk arcade experience — neon glow effects, rotating asteroid fields, procedurally generated planets with rings, and a double-fire power-up system. All running on a Stack and a Queue.
 
-### 🎮 Gameplay Demo
+### Gameplay Demo
 
-![Gameplay Demo](demo.gif)
+![Gameplay Demo](Demo.gif)
 ---
 
 ## Controls
