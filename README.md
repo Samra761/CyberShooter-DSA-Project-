@@ -5,7 +5,7 @@
 
 A neon-themed 2D space shooter built entirely in **Python + Pygame**, where every moving object in the game — bullets, enemies, explosions, planets — is managed by **custom-built Data Structures** coded from scratch. No Python `deque`, no built-in collections for game state. Just raw DSA.
 
-Built as a DSA course project @ **NUST MCS Campus, Rawalpindi** | Semester 3
+Built as a DSA course project @ **NUST** | Semester 3
 
 ---
 
