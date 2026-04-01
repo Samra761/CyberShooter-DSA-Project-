@@ -125,7 +125,6 @@ Collision detection uses **bounding box checks** instead of pixel-perfect detect
 CyberShooter-DSA/
 ├── cybershooter.py       # All DSA structures + complete game logic
 ├── highscore.txt         # Auto-generated on first run
-├── assets/               # Optional: sound & music files
 ├── docs/
 │   └── presentation.pdf  # Project presentation slides
 └── README.md
