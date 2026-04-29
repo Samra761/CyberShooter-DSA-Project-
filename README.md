@@ -152,7 +152,7 @@ The core idea, architecture, DSA design decisions, and game logic were conceived
 | Name | Role |
 |------|------|
 | **Samra Mehmood** | Project lead, core DSA implementation, game logic, visual design |
-| **Abdullah Khan** | Documentation, sound integration |
+| **Abdullah Khan** | Vibe-coding functions, documentation, sound integration |
 
 **Department of Electrical Engineering**  
 NUST | Semester 3 | DSA Course Project
